@@ -2,7 +2,7 @@
 <package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
   <name>freecad.the_experimental_workbench workbench</name>
   <description>An experimental for FreeCAD</description>
-  <version>0.0.1</version>
+  <version>0.0.3</version>
   <date>2023-02-06</date>
   <maintainer email="someemail@someprovider.com">GF</maintainer>
   <license file="LICENSE">GPL 3</license>
