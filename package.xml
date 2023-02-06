@@ -6,7 +6,7 @@
   <date>2023-02-06</date>
   <maintainer email="someemail@someprovider.com">GF</maintainer>
   <license file="LICENSE">GPL 3</license>
-  <url type="repository" branch="develop">https://github.com/guillaume-florent/The_Experimental_WB</url>
+  <url type="repository" branch="main">https://github.com/guillaume-florent/The_Experimental_WB</url>
   <url type="bugtracker">https://github.com/guillaume-florent/The_Experimental_WB/issues</url>
   <url type="documentation">https://github.com/guillaume-florent/The_Experimental_WB/docs</url>
   <icon>freecad/the_experimental_workbench/resources/the_experimental_workbench_icon.svg</icon>
