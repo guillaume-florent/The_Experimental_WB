@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>freecad.the_experimental_workbench workbench</name>
+  <description>An experimental for FreeCAD</description>
+  <version>0.0.1</version>
+  <date>2023-02-06</date>
+  <maintainer email="someemail@someprovider.com">GF</maintainer>
+  <license file="LICENSE">GPL 3</license>
+  <url type="repository" branch="develop">https://github.com/guillaume-florent/The_Experimental_WB</url>
+  <url type="bugtracker">https://github.com/guillaume-florent/The_Experimental_WB/issues</url>
+  <url type="documentation">https://github.com/guillaume-florent/The_Experimental_WB/docs</url>
+  <icon>freecad/the_experimental_workbench/resources/the_experimental_workbench_icon.svg</icon>
+
+  <content>
+    <workbench>
+      <classname>TheExperimentalWorkbench</classname>
+      <subdirectory>./</subdirectory>
+      <freecadmin>0.19</freecadmin>
+      <tag>experimental</tag>
+      <tag>learn</tag>
+    </workbench>
+  </content>
+
+</package>
